@@ -13,7 +13,7 @@ As the app is existing and the extensions of the app were made for the purpose o
 
 The app uses facial recognition, from the front-facing camera, to depict the user’s mood and plays a playlist depending on said mood.
 
-This is Ionic + Cordova crossplatform mobile app using AngularJS and the jeelizFaceFilter JavaScript library (https://github.com/jeeliz/jeelizFaceFilter). The Jeeliz FaceFilter API provides facial detection and movement using JS and Python. Parameters of person's facial feature when experiencing each mood are defined. 
+This is Ionic + Cordova crossplatform mobile app using AngularJS and the jeelizFaceFilter JavaScript library (https://github.com/jeeliz/jeelizFaceFilter). The Jeeliz FaceFilter API provides facial detection and movement using JS, Python and neural networks. Parameters of person's facial feature when experiencing each mood are defined. 
 
 The following moods:
 
